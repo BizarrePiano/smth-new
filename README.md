@@ -1,2 +1,0 @@
-# smth-new
-new repo
